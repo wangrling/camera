@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/wang/github/android-Camera2Basic/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/wang/.android/build-cache/5b9d5df2d735ca0a760762358c0d55993216a7ec/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/wang/github/android-Camera2Basic/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/wang/.android/build-cache/5b9d5df2d735ca0a760762358c0d55993216a7ec/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
